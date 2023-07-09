@@ -67,10 +67,6 @@ ul {
   color: var(--link-active-color);
 }
 
-.phone-number {
-  text-transform: uppercase;
-}
-
 .hero-heading {
   color: var(--heading-color);
   font-size: 72px;
